@@ -13,6 +13,8 @@ public class HelloWorld {
 		str.add("def");
 		str.add("ghi");
 		
+		System.out.println("Time stamp works");
+		
 		for (String string : str) {
 			System.out.println(string);
 		}
