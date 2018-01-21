@@ -23,6 +23,7 @@ public class HelloWorld {
 			e1.printStackTrace();
 		}
 		
+		System.out.println("Test time stamp");
 		
 		try {
 			TimeUnit.SECONDS.sleep(15);
